@@ -1,9 +1,0 @@
-string  name
-string  data
-array   data
-
-int32   type
-uint64  gameId
-uint32  button
-string  name
-bytes   data
