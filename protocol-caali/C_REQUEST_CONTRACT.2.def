@@ -1,6 +1,6 @@
-string name
-string data
-array data
+offset name
+offset data
+count data
 
 int32  type
 uint64 gameId
